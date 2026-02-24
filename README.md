@@ -1,3 +1,4 @@
+![Dashboard](screensort.jpg)
 # quick-commerce-powerbi-dashboard
 Interactive Power BI dashboard analyzing quick commerce sales performance 
 Quick Commerce Sales Dashboard (Power BI)
