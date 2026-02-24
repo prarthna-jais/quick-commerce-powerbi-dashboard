@@ -92,4 +92,3 @@ Tools Used
 
 ---
 
-This project demonstrates practical skills in business intelligence reporting, interactive dashboard design, data transformation, and analytical storytelling using Power BI.
